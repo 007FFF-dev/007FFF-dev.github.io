@@ -64,6 +64,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 <https://www.88ys.com/>
 
+<https://huarenvod.com/>
+
+<http://www.awsltv.com/>
+
+<https://www.rijutv.com/>
+
+<https://www.jjmeiju.com/>
+
+<https://www.97riju.net/>
+
+<https://duonaolive.com/>
+
+last update 2020-10-01 Z 
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
