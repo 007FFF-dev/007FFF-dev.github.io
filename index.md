@@ -34,33 +34,33 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Movie Site
 
-<https://www.dililitv.com/> 
+<https://www.dililitv.com/>  似乎是锁大陆区，非大陆区会Access denied。
 
 <https://www.cmdy5.com/>
 
-<https://www.olevod.com/>
+<https://www.olevod.com/> 不翻墙无法访问。
 
-<http://www.yhdm.tv/>
+<http://www.yhdm.tv/> 樱花动漫，看动漫的网站。
 
-<http://www.bimibimi.me/>
+<http://www.bimibimi.me/> 也是动漫。
 
 <https://www.dy2018.com/>
 
-<http://www.dmd8.com/>
+<http://www.dmd8.com/> 看动漫的，可能被墙，翻墙可见。
 
 <https://www.dandanzan.com/>
 
 <https://www.xl720.com/>
 
-<https://91mjw.com/>
+<https://91mjw.com/> 91美剧，看美剧的。
 
 <https://www.meiju22.com/>
 
 <https://www.dadatutu.com/>
 
-<https://www.agefans.tv/>
+<https://www.agefans.tv/> 看动漫的。
 
-<http://www.zimuxia.cn/>
+<http://www.zimuxia.cn/> 某字幕组官网。
 
 <https://www.88ys.com/>
 
@@ -68,16 +68,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 <http://www.awsltv.com/>
 
-<https://www.rijutv.com/>
+<https://www.rijutv.com/> 看日剧的。
 
-<https://www.jjmeiju.com/>
+<https://www.jjmeiju.com/> 看美剧的。
 
-<https://www.97riju.net/>
+<https://www.97riju.net/> 主打日剧，其他可尝试搜索。
 
 <https://duonaolive.com/>
 
-last update 2020-10-01 Z 
+站点 最后更新于 2020-10-01 Z 
 
+站点描述 最后更新于 2020-12-22
+ 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
