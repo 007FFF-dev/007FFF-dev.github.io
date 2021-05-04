@@ -48,7 +48,13 @@
 
 <http://www.kukan6.com/> 2021年2月13日更新（朋友推荐）
 
-站点 最后更新于 2021年5月4日 
+### Comic
+
+<http://www.kindlecomic.net/?p=541> Kindle漫画
+
+<https://www.acgndog.com/28156.html> 次元狗动漫
+
+最后更新于 2021年5月4日
  
 ### Readme
 
@@ -56,6 +62,6 @@
 
 <https://air7538tools.toolforge.org/>
 
-github在大陆运行不稳定，下面是备份网址：
+Github在大陆运行不稳定，下面是备份网址：
 
 <https://air_scp.gitee.io/merger-test/>
