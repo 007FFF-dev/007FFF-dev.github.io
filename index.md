@@ -48,13 +48,19 @@
 
 <http://www.kukan6.com/> 2021年2月13日更新（朋友推荐）
 
+<http://www.acglala.me/> 2021-08-16 动漫及百度云下载
+
+<https://www.clgod.com/> 08-16 影视下载
+
+<https://acgyw.com/> 08-16 同上
+
 ### Comic
 
 <http://www.kindlecomic.net/?p=541> Kindle漫画
 
 <https://www.acgndog.com/28156.html> 次元狗动漫
 
-最后更新于 2021年5月4日
+最后更新于 2021年8月16日
  
 ### Readme
 
