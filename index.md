@@ -54,13 +54,17 @@
 
 <https://acgyw.com/> 08-16 同上
 
+<https://www.999meiju.com/vod/qutamadeshijiediyiji/> 09-04 可下载
+
+<https://www.zhaifu.tv/meiju/1524.html> 09-04 可下载
+
 ### Comic
 
 <http://www.kindlecomic.net/?p=541> Kindle漫画
 
 <https://www.acgndog.com/28156.html> 次元狗动漫
 
-最后更新于 2021年8月16日
+最后更新于 2021年9月4日
  
 ### Readme
 
