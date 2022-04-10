@@ -14,17 +14,11 @@
 
 <http://www.yinghuacd.com/> 樱花动漫 *128
 
-<https://www.dy2018.com/> 电影天堂 *128
-
-<https://www.dytt89.com/> 电影天堂备份网站 *128
-
 <http://www.dmd8.com/> 动漫岛跳转网站 *128
 
 <http://www.88dmw.com/> 动漫岛 *128
 
 <http://www.dm55.cc/> 动漫岛备份 *128
-
-<https://www.xl720.com/> 迅雷电影天堂 *128
 
 <https://www.agemys.com/>  ACG动漫 *128
 
@@ -54,13 +48,37 @@
 
 <http://www.sxsdq.cn/> 天天电影网 2021年2月13日更新（朋友推荐） *128
 
-<http://www.acglala.me/> 2021年08月16日更新 动漫及百度云下载 *128
-
 <https://acgyw.com/> ACG资源 2021年08月16日更新 *128
 
-<https://www.999meiju.com/> 2021年9月4日 九九美剧 可下载 *128
+<https://www.wmcfc.com/> 爱美剧 *410
+
+### 可下载资源
+
+<https://www.dy2018.com/> 电影天堂 *128
+
+<https://www.dytt89.com/> 电影天堂备份网站 *128
+
+<https://www.xl720.com/> 迅雷电影天堂 *128
+
+<http://www.acglala.me/> 2021年08月16日更新 动漫及百度云下载 *128
+
+<https://bangumi.moe/> 萌番组 番剧种子 *410
+
+<http://www.animetox.com/> 动漫资源下载 *410
+
+<https://0xo.net/> 比较杂的资源 *410
+
+<https://resource.yudouyudou.com/> 比较杂的资源 *410
+
+<https://www.mikuclub.cc/> 初音社 *410
+
+<https://switchvip.com/> switch资源下载 *410
 
 ### Comic
+
+<https://www.lightnovel.us/> 轻之国度
+
+<https://www.tsdm39.net/> 天使动漫
 
 <http://www.kindlecomic.net/?p=541> Kindle漫画 
 
@@ -100,10 +118,12 @@
 
 <https://www.97riju.net/> 关站了？ *128
 
+<https://www.999meiju.com/> 九九美剧 *410 
+
 ### Readme
 
 Github在大陆运行不稳定，下面是备份网址：
 
 <https://air_scp.gitee.io/merger-test/> 列表备份站点最后更新于 2021年2月13日。出于传播盗版是不良做法，以后将不再更新备份站点。
 
-以上网站列表最后更新于2022年1月28日，使用 中国 吉林省 长春市 教育网 检测连接网站情况。如果有意见可以向相关github账号提交反馈信息。
+以上网站列表最后更新于2022年1月28日，使用 中国 吉林省 长春市 教育网 检测连接网站情况。*号标注是检查日期。如果有意见可以向相关github账号提交反馈信息。
